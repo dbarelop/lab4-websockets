@@ -1,8 +1,8 @@
-package websockets;
+package es.unizar.webeng.websockets;
 
 import org.glassfish.grizzly.Grizzly;
 import org.glassfish.tyrus.server.Server;
-import websockets.web.ElizaServerEndpoint;
+import es.unizar.webeng.websockets.web.ElizaServerEndpoint;
 
 import java.util.HashMap;
 import java.util.Scanner;

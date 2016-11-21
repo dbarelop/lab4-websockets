@@ -1,4 +1,4 @@
-package websockets.service;
+package es.unizar.webeng.websockets.service;
 
 import java.util.HashMap;
 import java.util.Random;

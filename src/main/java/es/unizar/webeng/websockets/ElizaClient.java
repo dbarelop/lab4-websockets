@@ -1,8 +1,8 @@
-package websockets;
+package es.unizar.webeng.websockets;
 
 import org.glassfish.grizzly.Grizzly;
 import org.glassfish.tyrus.client.ClientManager;
-import websockets.web.ElizaClientEndpoint;
+import es.unizar.webeng.websockets.web.ElizaClientEndpoint;
 
 import javax.websocket.DeploymentException;
 import java.io.IOException;

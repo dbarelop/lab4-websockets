@@ -1,7 +1,7 @@
-package websockets.web;
+package es.unizar.webeng.websockets.web;
 
 import org.glassfish.grizzly.Grizzly;
-import websockets.service.Eliza;
+import es.unizar.webeng.websockets.service.Eliza;
 
 import javax.websocket.*;
 import javax.websocket.CloseReason.CloseCodes;

@@ -1,9 +1,9 @@
-package websockets.web;
+package es.unizar.webeng.websockets.web;
 
-import console.TextDevice;
-import console.TextDevices;
+import es.unizar.webeng.console.TextDevice;
+import es.unizar.webeng.console.TextDevices;
 import org.glassfish.grizzly.Grizzly;
-import websockets.ElizaClient;
+import es.unizar.webeng.websockets.ElizaClient;
 
 import javax.websocket.*;
 import java.io.IOException;
