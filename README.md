@@ -18,7 +18,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 544393 | LAHOZ EGEA, CRISTINA  | [test repo](https://github.com/cristinalahoz/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/cristinalahoz/lab4-websockets.svg?branch=test)](https://travis-ci.org/cristinalahoz/lab4-websockets)
 622612 | MARTIN SEGURA, SERGIO  
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/Belberus/lab4-websockets.svg?branch=test)](https://travis-ci.org/Belberus/lab4-websockets) | |
-576307 | MARTÍNEZ PÉREZ, ADRIAN 
+576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/Electryk/lab4-websockets.svg?branch=test)](https://travis-ci.org/Electryk/lab4-websockets) | | 
 540891 | MENENDEZ MOYA, FRANCISCO 
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/nebur395/lab4-websockets.svg?branch=test)](https://travis-ci.org/nebur395/lab4-websockets) | Provide a HTML + JS client | :gift:
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO 
