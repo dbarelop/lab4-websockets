@@ -11,7 +11,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 683326 | BINTANED BASA, JESÚS 
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS 
-529361 | DUMITRACHE , CATALIN  CONSTANTIN 
+529361 | DUMITRACHE , CATALIN  CONSTANTIN [test](https://github.com/catalindumitrache76/lab4-websockets/tree/test) | [![Buid Status](https://travis-ci.org/catalindumitrache76/lab4-websockets.svg?branch=test)](https://travis-ci.org/catalindumitrache76/lab4-websockets)
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO 
 682531 | JUAN CIRIACO, ÁLVARO 
