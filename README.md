@@ -8,7 +8,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 666156 | BAREA LÓPEZ, DANIEL 
 666179 | BARRIOS GIL, ÁLVARO | [test repo](https://github.com/deerter/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/deerter/lab4-websockets.svg?branch=test)](https://travis-ci.org/deerter/lab4-websockets) 
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab4-websockets/tree/test) | [![Build Status](https://api.travis-ci.org/Victorbp09/lab4-websockets.svg?branch=test)](https://travis-ci.org/Victorbp09/lab4-websockets)
-683326 | BINTANED BASA, JESÚS 
+683326 | BINTANED BASA, JESÚS | [test repo](https://github.com/jebiba95/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/jebiba95/lab4-websockets.svg?branch=test)](https://travis-ci.org/jebiba95/lab4-websockets) 
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS 
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
