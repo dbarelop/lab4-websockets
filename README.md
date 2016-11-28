@@ -5,7 +5,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab4-web
 NIA    | User name | Repo | Build Status | Improvement | Score
 -------|-----------|------|--------------|-------------|--------
 647002 | AGUILAR REQUENA, EDUARDO 
-666156 | BAREA LÓPEZ, DANIEL | [test repo](https://github.com/dbarelop/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/dbarelop/lab4-websockets.svg?branch=test)](https://travis-ci.org/dbarelop/lab4-websockets?branch=test) | :gift: Added HTML + JavaScript interface
+666156 | BAREA LÓPEZ, DANIEL | [test repo](https://github.com/dbarelop/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/dbarelop/lab4-websockets.svg?branch=test)](https://travis-ci.org/dbarelop/lab4-websockets?branch=test) | :gift: Added HTML + JavaScript interface | | :interrobang:
 666179 | BARRIOS GIL, ÁLVARO 
 612595 | BELTRÁN PIÑOL, VÍCTOR 
 683326 | BINTANED BASA, JESÚS 
