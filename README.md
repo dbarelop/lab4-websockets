@@ -24,7 +24,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO 
 650448 | MURILLO MAGDALENA, JAVIER 
 453948 | NAVARRO CLARAS, MARIO 
-647973 | PERALTA MARTÍNEZ, SANTIAGO 
+647973 | PERALTA MARTÍNEZ, SANTIAGO  | [test repo](https://github.com/SantiagoPeralta/lab4-websockets/tree/test) |[![Build Status](https://travis-ci.org/SantiagoPeralta/lab4-websockets.svg?branch=test)](https://travis-ci.org/SantiagoPeralta/lab4-websockets) | | :interrobang: 
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/beapc18/lab4-websockets.svg?branch=test)](https://travis-ci.org/beapc18/lab4-websockets)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab4-websockets/tree/test) | [![Build Status](https://travis-ci.org/anicacortes/lab4-websockets.svg?branch=test)](https://travis-ci.org/anicacortes/lab4-websockets)
 559207 | RUEDA MACÍAS, DANIEL | [test repo](https://github.com/danirueda/lab4-websockets/tree/test)| [![Build Status](https://travis-ci.org/danirueda/lab4-websockets.svg?branch=master)](https://travis-ci.org/danirueda/lab4-websockets)
